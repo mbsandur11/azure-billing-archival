@@ -9,7 +9,7 @@ Hot storage: Cosmos DB container (
  records ) with 90‑day TTL
  Cold storage: ADLS Gen2 under 
 • 
-• 
+
 • 
 archive/YYYYMM/DD/customerId=<id>/records.jsonl
  Change Feed archiver: Function writes old docs to ADLS
