@@ -4,7 +4,7 @@ Azure Billing Archival (Serverless Hot/Cold)
  (and can optionally rehydrate it back into Cosmos).
  ✨ What you get
  • 
-• 
+
 Hot storage: Cosmos DB container (
  records ) with 90‑day TTL
  Cold storage: ADLS Gen2 under 
