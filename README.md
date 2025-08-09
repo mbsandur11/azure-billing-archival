@@ -56,13 +56,7 @@ features {} for AzureRM. Required for any
  location , and 
 cosmos_ttl_seconds (90 days) for easy customization.
  infra/terraform/main.tf
- • 
-• 
-• 
-• 
-• 
-• 
-• 
+
 • 
 • 
 Resource Group
